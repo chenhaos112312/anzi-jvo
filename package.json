@@ -39,7 +39,7 @@
     "better-react-mathjax": "^2.0.2",
     "fast-average-color-node": "^2.6.0",
     "feed": "^4.2.2",
-    "glob": "11.0.3",
+    "glob": "7.2.3",
     "googleapis": "^110.0.0",
     "gray-matter": "^4.0.3",
     "he": "^1.2.0",
