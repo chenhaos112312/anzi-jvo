@@ -11,6 +11,10 @@
     "name": "MannyCooper",
     "url": "https://www.anzifan.com"
   },
+  "engines": {
+    "npm": "please-use-yarn",
+    "yarn": ">=4.0.0"
+  }
   "private": true,
   "scripts": {
     "dev": "next dev",
